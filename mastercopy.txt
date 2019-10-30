@@ -9,3 +9,5 @@ doing the stash test added this line.
 >>>>>>> Stashed changes
 
 stash file resumed and this new line added.
+
+x=5
