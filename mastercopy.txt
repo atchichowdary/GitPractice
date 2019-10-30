@@ -11,3 +11,4 @@ doing the stash test added this line.
 stash file resumed and this new line added.
 
 x=5
+x=10
