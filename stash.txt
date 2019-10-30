@@ -1,3 +1,9 @@
 hi stash test
 
+<<<<<<< Updated upstream
 after stash coded added in the same file.
+=======
+doing the stash test added this line.
+>>>>>>> Stashed changes
+
+stash file resumed and this new line added.
